@@ -1,0 +1,30 @@
+{
+  "name": "matrixlinalglib",
+  "version": "1.0.0",
+  "description": "A JavaScript utilities library for matrixes in linear algebra",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keobkeig/MatrixLinAlgLib.git"
+  },
+  "keywords": [
+    "linear",
+    "algebra",
+    "matrix",
+    "math",
+    "precision",
+    "float",
+    "numerical",
+    "analysis",
+    "linear-algebra"
+  ],
+  "author": "@Keobkeig (Richie X.)",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Keobkeig/MatrixLinAlgLib/issues"
+  },
+  "homepage": "https://github.com/Keobkeig/MatrixLinAlgLib#readme"
+}
